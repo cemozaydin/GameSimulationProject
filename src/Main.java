@@ -18,7 +18,7 @@ public class Main {
 		Scanner scn = new Scanner(System.in);		
 		
 		UserManager userManager = new UserManager(new UserValidationManager());
-		User user1= new User(1,"Cem","Özaydın","11567525530",1980);
+		User user1= new User(1,"Cem","Özaydın","11111111111",1980);
 		User user2=new User(2,"Esra","Aydın","111111111111",1983);	
 		
 		
