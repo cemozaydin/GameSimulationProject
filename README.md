@@ -25,3 +25,8 @@ Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını JAVA ile ge
 
 * Console ekranına menü sistemi eklendi.
 
+<br>
+
+## :desktop_computer: <font color="cyan"> Output  </font>
+
+<img src="images/MainMenu.JPG">
